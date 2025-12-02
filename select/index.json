@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Four Letter Word",
+  "base_artist": "Beady Eye",
+  "createdAt": "2025-12-02T13:04:53.555495Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Four Letter Word",
+      "artist": "Echobelly",
+      "has_synced": true,
+      "path": "select/01_Four_Letter_Word_Echobelly.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Four Letter Word",
+      "artist": "Beady Eye",
+      "has_synced": false,
+      "path": "select/02_Four_Letter_Word_Beady_Eye.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Four Letter Word",
+      "artist": "Beady Eye",
+      "has_synced": false,
+      "path": "select/03_Four_Letter_Word_Beady_Eye.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Four Letter Word",
+      "artist": "Kim Wilde",
+      "has_synced": true,
+      "path": "select/04_Four_Letter_Word_Kim_Wilde.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Four Letter Word",
+      "artist": "Kim Wilde",
+      "has_synced": true,
+      "path": "select/05_Four_Letter_Word_Kim_Wilde.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Friend Is a Four Letter Word",
+      "artist": "Cake",
+      "has_synced": true,
+      "path": "select/06_Friend_Is_a_Four_Letter_Word_Cake.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Four Letter Word",
+      "artist": "Cheap Trick",
+      "has_synced": false,
+      "path": "select/07_Four_Letter_Word_Cheap_Trick.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Four Letter Word",
+      "artist": "Def Leppard",
+      "has_synced": true,
+      "path": "select/08_Four_Letter_Word_Def_Leppard.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Four Letter Word",
+      "artist": "Def Leppard",
+      "has_synced": false,
+      "path": "select/09_Four_Letter_Word_Def_Leppard.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Four Letter Word",
+      "artist": "Clawfinger",
+      "has_synced": false,
+      "path": "select/10_Four_Letter_Word_Clawfinger.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Five is a Four Letter Word",
+      "artist": "Lostprophets",
+      "has_synced": true,
+      "path": "select/11_Five_is_a_Four_Letter_Word_Lostprophets.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Four Letter Word",
+      "artist": "Escape the Fate",
+      "has_synced": false,
+      "path": "select/12_Four_Letter_Word_Escape_the_Fate.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Love's a Four Letter Word",
+      "artist": "Squeeze",
+      "has_synced": false,
+      "path": "select/13_Love's_a_Four_Letter_Word_Squeeze.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Love's A Four Letter Word [bonus]",
+      "artist": "Squeeze",
+      "has_synced": false,
+      "path": "select/14_Love's_A_Four_Letter_Word_[bonus]_Squeeze.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Four Letter Word",
+      "artist": "Jessie J",
+      "has_synced": true,
+      "path": "select/15_Four_Letter_Word_Jessie_J.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Four Letter Word",
+      "artist": "Beady Eye",
+      "has_synced": false,
+      "path": "select/pl_01_Four_Letter_Word_Beady_Eye.txt"
+    }
+  ]
+}
